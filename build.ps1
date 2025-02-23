@@ -1,7 +1,7 @@
 <#
 
 .DESCRIPTION
- Bootstrap and build script for PowerShell module pipeline
+ Bootstrap and build script for PowerShell module pipelines
 
 #>
 [CmdletBinding()]
